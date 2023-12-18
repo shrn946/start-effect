@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Star Effect
-The Star Effect plugin enables the integration of custom scripts on your website to create a captivating star animation.
+Description:The Star Effect plugin allows you to incorporate personalized scripts into your website, generating an enchanting star animation upon mouse interaction.
 Version: 1.0
 Author: Hassan Naqvi
 */
